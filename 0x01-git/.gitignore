@@ -1,1 +1,1 @@
-define a rule to never push /root file
+The purpose of gitignore files is to ensure that certain files not tracked by Git remain untracked.
